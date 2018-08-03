@@ -18,3 +18,14 @@ What are presentational components?
 
 A componenet that's only concerned with how things look 
 
+What is a CSRF attack?
+
+An attach where a malicious entity traks a victum into performing action on behalf of the attacker. Only works with loogged in victums. works better with people who hae administrative privilages. 
+
+How can you prevent CSRF vulnerabilities? 
+
+Anit-CSRF tokens 
+request only work with matching tokens 
+
+Same site cookies 
+cookings that cna only be sent in a request from a site of the same origin
