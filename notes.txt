@@ -1,0 +1,15 @@
+what  is the danger of an XSS?
+
+It can result in dangerous code being inserted in the database and eventially in the user's browser, where would have access to many things like the user's cookies. 
+
+Discuss 4 difference between ES5 and ES6: 
+
+Blockscope (let and const) 
+
+Lexical "this" (fat arrow being based on physical location)
+
+Dealing with "arguments" - rest parameter (...args) so result has all array properties 
+
+classes - etter "ruby like" syntax 
+
+strict mode - needed automatically used w/ ES6 features 
