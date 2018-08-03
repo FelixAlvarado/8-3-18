@@ -13,3 +13,8 @@ Dealing with "arguments" - rest parameter (...args) so result has all array prop
 classes - etter "ruby like" syntax 
 
 strict mode - needed automatically used w/ ES6 features 
+
+What are presentational components?
+
+A componenet that's only concerned with how things look 
+
