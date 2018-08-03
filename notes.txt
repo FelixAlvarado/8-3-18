@@ -29,3 +29,13 @@ request only work with matching tokens
 
 Same site cookies 
 cookings that cna only be sent in a request from a site of the same origin
+
+What type of errors do try...catch blocks work for? 
+
+runtime erros - (correct syntax) 
+
+synchronous - won't work for set Timeout
+
+when creating a custom error, what attributes should it have? 
+
+A name, message, and stack. 
